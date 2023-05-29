@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pysequence-/static/css/main.b08d6fd3.css",
-    "main.js": "/pysequence-/static/js/main.11d994b4.js",
+    "main.css": "/pysequence-/static/css/main.cd69be49.css",
+    "main.js": "/pysequence-/static/js/main.c58e86a7.js",
     "index.html": "/pysequence-/index.html",
-    "main.b08d6fd3.css.map": "/pysequence-/static/css/main.b08d6fd3.css.map",
-    "main.11d994b4.js.map": "/pysequence-/static/js/main.11d994b4.js.map"
+    "main.cd69be49.css.map": "/pysequence-/static/css/main.cd69be49.css.map",
+    "main.c58e86a7.js.map": "/pysequence-/static/js/main.c58e86a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b08d6fd3.css",
-    "static/js/main.11d994b4.js"
+    "static/css/main.cd69be49.css",
+    "static/js/main.c58e86a7.js"
   ]
 }
